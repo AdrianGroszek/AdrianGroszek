@@ -5,7 +5,7 @@ I'm an aspiring front-end developer passionate about building modern and interac
 
 
 ### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,tailwind,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,sass,tailwind,git)](https://skillicons.dev)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
